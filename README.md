@@ -1,5 +1,6 @@
-# JKFLIPFLOP USING IF ELSE
-
+# JK FLIPFLOP USING IF ELSE
+# Name : Kowshik p
+# Reg no: 212224040164
 **AIM:** 
 
 To implement  JK flipflop using verilog and validating their functionality using their functional tables
